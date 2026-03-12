@@ -15,10 +15,10 @@ BOT_TOKEN = "7898119257:AAGJUe7U-H0NYnvvftDZ1-nhbmoi8Rgo3Gs"
 
 # 4 Channel ke usernames (@ ke bina) ya IDs
 CHANNELS = [
-    {"id": -6312772164, "name": "Channel 1", "link": "https://t.me/apktitann"},
-    {"id": -6312772164, "name": "Channel 2", "link": "https://t.me/apktitann"},
-    {"id": -6312772164, "name": "Channel 3", "link": "https://t.me/apktitann"},
-    {"id": -6312772164, "name": "Channel 4", "link": "https://t.me/apktitann"},
+    {"id": -6714117576, "name": "Channel 1", "link": "https://t.me/apktitann"},
+    {"id": -6714117576, "name": "Channel 2", "link": "https://t.me/apktitann"},
+    {"id": -6714117576, "name": "Channel 3", "link": "https://t.me/apktitann"},
+    {"id": -6714117576, "name": "Channel 4", "link": "https://t.me/apktitann"},
 ]
 
 # Welcome image URL (koi bhi direct image link)
